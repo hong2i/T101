@@ -1,4 +1,4 @@
-# T101 (Terraform Study)
+# T101 (Terraform Study) - 3 Week
 
 ### [과제2]
 `목표` : **Github** 에 가입을 해주시고, 각자 스터디 전용 Public **Repository** 를 생성해주세요.
