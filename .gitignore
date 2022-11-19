@@ -1,2 +1,3 @@
 ## Terraform Ignore
 .Terraform
+.terraform.lock.hcl
